@@ -1,0 +1,28 @@
+A:\C#\Figures\Figures\bin\Debug\Figures.exe.config
+A:\C#\Figures\Figures\bin\Debug\Figures.exe
+A:\C#\Figures\Figures\bin\Debug\Figures.pdb
+A:\C#\Figures\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+A:\C#\Figures\Figures\obj\Debug\Figures.mainForm.resources
+A:\C#\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+A:\C#\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.cache
+A:\C#\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+A:\C#\Figures\Figures\obj\Debug\Figures.exe
+A:\C#\Figures\Figures\obj\Debug\Figures.pdb
+A:\C#\Figures\Figures\bin\Debug\AreaOfFigures.dll
+A:\C#\Figures\Figures\bin\Debug\AreaOfFigures.pdb
+A:\C#\Figures\Figures\bin\Debug\AreaOfFigures.dll.config
+A:\C#\Figures\Figures\obj\Debug\Figures.csproj.CopyComplete
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\bin\Debug\AreaOfFigures.dll
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\bin\Debug\AreaOfFigures.pdb
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\bin\Debug\AreaOfFigures.dll.config
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.mainForm.resources
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.cache
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.csproj.CopyComplete
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\Fedor Andreevich\Desktop\github\Figures\Figures\obj\Debug\Figures.pdb

@@ -1,0 +1,14 @@
+A:\C#\Figures\Figures\bin\Release\Figures.exe.config
+A:\C#\Figures\Figures\bin\Release\Figures.exe
+A:\C#\Figures\Figures\bin\Release\Figures.pdb
+A:\C#\Figures\Figures\bin\Release\AreaOfFigures.dll
+A:\C#\Figures\Figures\bin\Release\AreaOfFigures.pdb
+A:\C#\Figures\Figures\bin\Release\AreaOfFigures.dll.config
+A:\C#\Figures\Figures\obj\Release\Figures.mainForm.resources
+A:\C#\Figures\Figures\obj\Release\Figures.Properties.Resources.resources
+A:\C#\Figures\Figures\obj\Release\Figures.csproj.GenerateResource.cache
+A:\C#\Figures\Figures\obj\Release\Figures.csproj.CoreCompileInputs.cache
+A:\C#\Figures\Figures\obj\Release\Figures.csproj.CopyComplete
+A:\C#\Figures\Figures\obj\Release\Figures.exe
+A:\C#\Figures\Figures\obj\Release\Figures.pdb
+A:\C#\Figures\Figures\obj\Release\Figures.csprojAssemblyReference.cache

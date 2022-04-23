@@ -1,0 +1,14 @@
+A:\C#\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.dll.config
+A:\C#\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.dll
+A:\C#\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+A:\C#\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.csprojAssemblyReference.cache
+A:\C#\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+A:\C#\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.dll
+A:\C#\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.pdb
+A:\Polygon\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.dll.config
+A:\Polygon\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.dll
+A:\Polygon\AreaOfFigures\AreaOfFigures\bin\Debug\AreaOfFigures.pdb
+A:\Polygon\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.csprojAssemblyReference.cache
+A:\Polygon\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.csproj.CoreCompileInputs.cache
+A:\Polygon\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.dll
+A:\Polygon\AreaOfFigures\AreaOfFigures\obj\Debug\AreaOfFigures.pdb
